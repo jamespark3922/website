@@ -81,22 +81,20 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 28px;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 700
 }
 
@@ -109,27 +107,21 @@ li{
   margin-top: 10px;
 }
 
-.one {
-  width: 160px;
-  height: 160px;
-  position: relative;
+/* introduction  */
+
+#description {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px;
 }
 
-.two {
-  width: 160px;
-  height: 160px;
-  position: absolute;
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
+#interests {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px;
 }
 
-.fade {
-  transition: opacity .2s ease-in-out;
-  -moz-transition: opacity .2s ease-in-out;
-  -webkit-transition: opacity .2s ease-in-out;
+#info {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px;
 }
 
-span.highlight {
-  background-color: #ffffd0;
-}
+/* publications */
